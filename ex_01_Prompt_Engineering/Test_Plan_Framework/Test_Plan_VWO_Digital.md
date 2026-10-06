@@ -333,4 +333,4 @@ Resolve or explicitly disposition these before claiming complete coverage:
 8. Connector-specific supported operations, schemas/mappings, sync frequency, error/retry behavior, and provider test access.
 9. Statistical acceptance criteria/data sets for SmartStats and the intended meaning of “statistically validated.”
 10. Uptime SLA measurement period, exclusions, and source of operational evidence for 99.9% reliability.
-11. Product-approved priority/release disposition for open High/Medium defects.
+11. Product-approved priority/release disposition for open High/Medium defects and blocked tests.
