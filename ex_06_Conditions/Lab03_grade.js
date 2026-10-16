@@ -1,4 +1,4 @@
-let marks = 105;
+let marks = 50;
 if (marks>100){
     console.log("Invalid input");
 }else{
@@ -10,8 +10,6 @@ if (marks>100){
         console.log("Grade C");
     }else if(marks >= 60) {
         console.log("Grade D");
-    }else if(marks >= 50) {
-        console.log("Grade E");
     }else {
         console.log("Grade F");
     }
